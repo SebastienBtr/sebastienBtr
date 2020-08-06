@@ -17,7 +17,7 @@ I'm Sébastien, a software engineer from France 😄
 <br />
 <br />
 
-![Sebastien's github stats](https://github-readme-stats.vercel.app/api?username=sebastienBtr&show_icons=true&title_color=24292e&icon_color=40c463&text_color=24292e&bg_color=fff)
+![Sebastien's github stats](https://github-readme-stats.vercel.app/api?username=sebastienBtr&show_icons=true&title_color=24292e&icon_color=40c463&text_color=24292e&bg_color=fff&hide_boerder=true)
 
 <!--
 **SebastienBtr/sebastienBtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
