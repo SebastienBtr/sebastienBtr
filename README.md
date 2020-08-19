@@ -28,11 +28,6 @@ Reach me on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1748](https://github.com//webpack/webpack-cli/issues/1748) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-2. 🗣 Commented on [#1753](https://github.com//webpack/webpack-cli/issues/1753) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-3. 💪 Opened PR [#1754](https://github.com//webpack/webpack-cli/pull/1754) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-4. ❗️ Closed issue [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
