@@ -17,6 +17,7 @@ Reach me on:
 <a href="https://medium.com/@sebastienBtr">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+</br>
 
 ---
 
