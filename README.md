@@ -28,7 +28,6 @@ Reach me on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
