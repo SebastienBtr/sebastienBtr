@@ -28,11 +28,11 @@ Reach me on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com//fayeed/dash_chat/issues/124) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-2. 💪 Opened PR [#131](https://github.com//fayeed/dash_chat/pull/131) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-3. 🗣 Commented on [#130](https://github.com//fayeed/dash_chat/issues/130) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+1. ❗️ Opened issue [#507](https://github.com//pichillilorenzo/flutter_inappwebview/issues/507) in [pichillilorenzo/flutter_inappwebview](https://github.com//pichillilorenzo/flutter_inappwebview)
+2. 🗣 Commented on [#124](https://github.com//fayeed/dash_chat/issues/124) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+3. 💪 Opened PR [#131](https://github.com//fayeed/dash_chat/pull/131) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
 4. 🗣 Commented on [#130](https://github.com//fayeed/dash_chat/issues/130) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-5. 🗣 Commented on [#53](https://github.com//fayeed/dash_chat/issues/53) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+5. 🗣 Commented on [#130](https://github.com//fayeed/dash_chat/issues/130) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
 <!--END_SECTION:activity-->
 
 ---
