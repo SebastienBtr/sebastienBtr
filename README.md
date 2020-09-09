@@ -29,10 +29,10 @@ Reach me on:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#127](https://github.com//fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-2. ❗️ Closed issue [#102](https://github.com//fayeed/dash_chat/issues/102) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-3. 🗣 Commented on [#102](https://github.com//fayeed/dash_chat/issues/102) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-4. 🗣 Commented on [#122](https://github.com//fayeed/dash_chat/issues/122) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-5. ❗️ Closed issue [#129](https://github.com//fayeed/dash_chat/issues/129) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+2. 🗣 Commented on [#127](https://github.com//fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+3. ❗️ Closed issue [#102](https://github.com//fayeed/dash_chat/issues/102) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+4. 🗣 Commented on [#102](https://github.com//fayeed/dash_chat/issues/102) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+5. 🗣 Commented on [#122](https://github.com//fayeed/dash_chat/issues/122) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
 <!--END_SECTION:activity-->
 
 ---
