@@ -28,11 +28,11 @@ Reach me on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//SebastienBtr/cross-platform-TP/pull/7) in [SebastienBtr/cross-platform-TP](https://github.com//SebastienBtr/cross-platform-TP)
-2. 🗣 Commented on [#127](https://github.com//fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+1. 🗣 Commented on [#127](https://github.com//fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+2. 🎉 Merged PR [#7](https://github.com//SebastienBtr/cross-platform-TP/pull/7) in [SebastienBtr/cross-platform-TP](https://github.com//SebastienBtr/cross-platform-TP)
 3. 🗣 Commented on [#127](https://github.com//fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-4. ❗️ Closed issue [#102](https://github.com//fayeed/dash_chat/issues/102) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
-5. 🗣 Commented on [#102](https://github.com//fayeed/dash_chat/issues/102) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+4. 🗣 Commented on [#127](https://github.com//fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
+5. ❗️ Closed issue [#102](https://github.com//fayeed/dash_chat/issues/102) in [fayeed/dash_chat](https://github.com//fayeed/dash_chat)
 <!--END_SECTION:activity-->
 
 ---
