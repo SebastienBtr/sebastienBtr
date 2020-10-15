@@ -28,11 +28,11 @@ Reach me on:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/fayeed/dash_chat/issues/139) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-2. 🗣 Commented on [#138](https://github.com/fayeed/dash_chat/issues/138) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-3. 🗣 Commented on [#137](https://github.com/fayeed/dash_chat/issues/137) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-4. 🗣 Commented on [#140](https://github.com/fayeed/dash_chat/issues/140) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-5. 🗣 Commented on [#62332](https://github.com/flutter/flutter/issues/62332) in [flutter/flutter](https://github.com/flutter/flutter)
+1. ❗️ Opened issue [#446](https://github.com/miguelpruivo/flutter_file_picker/issues/446) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
+2. 🗣 Commented on [#139](https://github.com/fayeed/dash_chat/issues/139) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+3. 🗣 Commented on [#138](https://github.com/fayeed/dash_chat/issues/138) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+4. 🗣 Commented on [#137](https://github.com/fayeed/dash_chat/issues/137) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+5. 🗣 Commented on [#140](https://github.com/fayeed/dash_chat/issues/140) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
 <!--END_SECTION:activity-->
 
 ---
