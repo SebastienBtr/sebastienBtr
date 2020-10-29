@@ -4,8 +4,6 @@
 
 I'm Sébastien, a software engineer from France 😄
 
-I spend most of my "open source time" working on [Dashchat](https://github.com/fayeed/dash_chat), check this out!
-
 Reach me on:
 
 <a href="https://twitter.com/seb_bouttier">
