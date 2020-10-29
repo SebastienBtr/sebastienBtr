@@ -12,7 +12,7 @@ Reach me on:
 <a href="https://www.linkedin.com/in/sebastien-bouttier">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@sebastienBtr">
+<a href="https://sebastien-bouttier.medium.com/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 </br>
