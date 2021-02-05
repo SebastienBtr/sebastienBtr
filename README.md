@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-2. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+1. 🗣 Commented on [#157](https://github.com/fayeed/dash_chat/issues/157) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+2. ❗️ Closed issue [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
 3. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-4. 💪 Opened PR [#8](https://github.com/lohanidamodar/pdf_viewer/pull/8) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
-5. 🗣 Commented on [#258](https://github.com/richardgirges/express-fileupload/issues/258) in [richardgirges/express-fileupload](https://github.com/richardgirges/express-fileupload)
+4. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+5. 💪 Opened PR [#8](https://github.com/lohanidamodar/pdf_viewer/pull/8) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
 <!--END_SECTION:activity-->
 
 ---
