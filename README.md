@@ -24,10 +24,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/fluttercommunity/flutter_google_places/issues/156) in [fluttercommunity/flutter_google_places](https://github.com/fluttercommunity/flutter_google_places)
-2. 🗣 Commented on [#8](https://github.com/lohanidamodar/pdf_viewer/issues/8) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
-3. 🗣 Commented on [#157](https://github.com/fayeed/dash_chat/issues/157) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-4. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+1. ❗️ Opened issue [#4](https://github.com/ayyshim/google_map_polyutil/issues/4) in [ayyshim/google_map_polyutil](https://github.com/ayyshim/google_map_polyutil)
+2. 🗣 Commented on [#156](https://github.com/fluttercommunity/flutter_google_places/issues/156) in [fluttercommunity/flutter_google_places](https://github.com/fluttercommunity/flutter_google_places)
+3. 🗣 Commented on [#8](https://github.com/lohanidamodar/pdf_viewer/issues/8) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
+4. 🗣 Commented on [#157](https://github.com/fayeed/dash_chat/issues/157) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
 5. 💪 Opened PR [#8](https://github.com/lohanidamodar/pdf_viewer/pull/8) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
 <!--END_SECTION:activity-->
 
