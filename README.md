@@ -27,8 +27,8 @@
 1. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
 2. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
 3. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
-4. ❗️ Opened issue [#735](https://github.com/miguelpruivo/flutter_file_picker/issues/735) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
-5. 🗣 Commented on [#58](https://github.com/Norbert515/dynamic_theme/issues/58) in [Norbert515/dynamic_theme](https://github.com/Norbert515/dynamic_theme)
+4. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
+5. ❗️ Opened issue [#735](https://github.com/miguelpruivo/flutter_file_picker/issues/735) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
 <!--END_SECTION:activity-->
 
 ---
