@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
+1. 🗣 Commented on [#735](https://github.com/miguelpruivo/flutter_file_picker/issues/735) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
 2. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
 3. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
 4. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
-5. ❗️ Opened issue [#735](https://github.com/miguelpruivo/flutter_file_picker/issues/735) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
+5. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
 <!--END_SECTION:activity-->
 
 ---
