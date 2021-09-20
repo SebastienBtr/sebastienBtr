@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/Norbert515/dynamic_theme/issues/57) in [Norbert515/dynamic_theme](https://github.com/Norbert515/dynamic_theme)
-2. ❗️ Opened issue [#6](https://github.com/JulianAssmann/flutter_dynamic_themes/issues/6) in [JulianAssmann/flutter_dynamic_themes](https://github.com/JulianAssmann/flutter_dynamic_themes)
-3. 🗣 Commented on [#735](https://github.com/miguelpruivo/flutter_file_picker/issues/735) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
-4. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
-5. 🗣 Commented on [#515](https://github.com/jhomlala/betterplayer/issues/515) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
+1. 🗣 Commented on [#157](https://github.com/fayeed/dash_chat/issues/157) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+2. 🗣 Commented on [#184](https://github.com/fayeed/dash_chat/issues/184) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+3. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+4. 🗣 Commented on [#57](https://github.com/Norbert515/dynamic_theme/issues/57) in [Norbert515/dynamic_theme](https://github.com/Norbert515/dynamic_theme)
+5. ❗️ Opened issue [#6](https://github.com/JulianAssmann/flutter_dynamic_themes/issues/6) in [JulianAssmann/flutter_dynamic_themes](https://github.com/JulianAssmann/flutter_dynamic_themes)
 <!--END_SECTION:activity-->
 
 ---
