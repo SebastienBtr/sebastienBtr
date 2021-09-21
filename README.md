@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/lohanidamodar/pdf_viewer/issues/83) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
-2. 🗣 Commented on [#157](https://github.com/fayeed/dash_chat/issues/157) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-3. 🗣 Commented on [#184](https://github.com/fayeed/dash_chat/issues/184) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-4. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-5. 🗣 Commented on [#57](https://github.com/Norbert515/dynamic_theme/issues/57) in [Norbert515/dynamic_theme](https://github.com/Norbert515/dynamic_theme)
+1. 🗣 Commented on [#35](https://github.com/SiriDx/qrcode/issues/35) in [SiriDx/qrcode](https://github.com/SiriDx/qrcode)
+2. 🗣 Commented on [#83](https://github.com/lohanidamodar/pdf_viewer/issues/83) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
+3. 🗣 Commented on [#157](https://github.com/fayeed/dash_chat/issues/157) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+4. 🗣 Commented on [#184](https://github.com/fayeed/dash_chat/issues/184) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+5. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
 <!--END_SECTION:activity-->
 
 ---
