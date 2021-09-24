@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/SiriDx/qrcode/issues/35) in [SiriDx/qrcode](https://github.com/SiriDx/qrcode)
-2. 🗣 Commented on [#83](https://github.com/lohanidamodar/pdf_viewer/issues/83) in [lohanidamodar/pdf_viewer](https://github.com/lohanidamodar/pdf_viewer)
-3. 🗣 Commented on [#157](https://github.com/fayeed/dash_chat/issues/157) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-4. 🗣 Commented on [#184](https://github.com/fayeed/dash_chat/issues/184) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-5. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+1. 🎉 Merged PR [#3](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/3) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+2. 🗣 Commented on [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+3. 🎉 Merged PR [#2](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/2) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+4. 🗣 Commented on [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+5. 🗣 Commented on [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
 ---
