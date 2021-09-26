@@ -24,10 +24,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-2. 🎉 Merged PR [#3](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/3) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-3. 🗣 Commented on [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-4. 🎉 Merged PR [#2](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/2) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+1. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+2. 🗣 Commented on [#184](https://github.com/fayeed/dash_chat/issues/184) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+3. ❗️ Closed issue [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+4. 🎉 Merged PR [#3](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/3) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
 5. 🗣 Commented on [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
