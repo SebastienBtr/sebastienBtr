@@ -1,5 +1,5 @@
 
----
+<h1></h1>
 
 ### :speech_balloon: Where to find me
 
@@ -15,11 +15,11 @@
 </a>
 </br>
 
----
+<h1></h1>
 
 ![Sebastien's github stats](https://github-readme-stats.vercel.app/api?username=sebastienBtr&show_icons=true&title_color=24292e&icon_color=40c463&text_color=24292e&bg_color=fff&count_private=true)
 
----
+<h1></h1>
 
 ### :zap: Recent Activity
 
@@ -31,6 +31,6 @@
 5. 🗣 Commented on [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
----
+<h1></h1>
 
 ![](https://komarev.com/ghpvc/?username=sebastienBtr)
