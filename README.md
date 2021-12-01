@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/JulianAssmann/flutter_dynamic_themes/issues/6) in [JulianAssmann/flutter_dynamic_themes](https://github.com/JulianAssmann/flutter_dynamic_themes)
-2. 🗣 Commented on [#735](https://github.com/miguelpruivo/flutter_file_picker/issues/735) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
-3. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-4. 🗣 Commented on [#184](https://github.com/fayeed/dash_chat/issues/184) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
-5. ❗️ Closed issue [#1](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/1) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+1. 🗣 Commented on [#93609](https://github.com/flutter/flutter/issues/93609) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🗣 Commented on [#6](https://github.com/JulianAssmann/flutter_dynamic_themes/issues/6) in [JulianAssmann/flutter_dynamic_themes](https://github.com/JulianAssmann/flutter_dynamic_themes)
+3. 🗣 Commented on [#735](https://github.com/miguelpruivo/flutter_file_picker/issues/735) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
+4. 🗣 Commented on [#127](https://github.com/fayeed/dash_chat/issues/127) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
+5. 🗣 Commented on [#184](https://github.com/fayeed/dash_chat/issues/184) in [fayeed/dash_chat](https://github.com/fayeed/dash_chat)
 <!--END_SECTION:activity-->
 
 <h1></h1>
