@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/SebastienBtr/Micro-express/pull/32) in [SebastienBtr/Micro-express](https://github.com/SebastienBtr/Micro-express)
-2. 🎉 Merged PR [#31](https://github.com/SebastienBtr/Micro-express/pull/31) in [SebastienBtr/Micro-express](https://github.com/SebastienBtr/Micro-express)
-3. 🎉 Merged PR [#46](https://github.com/SebastienBtr/Micro-express/pull/46) in [SebastienBtr/Micro-express](https://github.com/SebastienBtr/Micro-express)
-4. 🎉 Merged PR [#45](https://github.com/SebastienBtr/Micro-express/pull/45) in [SebastienBtr/Micro-express](https://github.com/SebastienBtr/Micro-express)
-5. 🎉 Merged PR [#44](https://github.com/SebastienBtr/Micro-express/pull/44) in [SebastienBtr/Micro-express](https://github.com/SebastienBtr/Micro-express)
+1. 🎉 Merged PR [#31](https://github.com/SebastienBtr/vue-dashboard/pull/31) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
+2. 🎉 Merged PR [#7](https://github.com/guillaumeguirriec/applicationconference/pull/7) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
+3. 🎉 Merged PR [#24](https://github.com/guillaumeguirriec/applicationconference/pull/24) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
+4. 🎉 Merged PR [#18](https://github.com/guillaumeguirriec/applicationconference/pull/18) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
+5. 🎉 Merged PR [#13](https://github.com/guillaumeguirriec/applicationconference/pull/13) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
 <!--END_SECTION:activity-->
 
 <h1></h1>
