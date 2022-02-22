@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/6) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-2. 🎉 Merged PR [#31](https://github.com/SebastienBtr/vue-dashboard/pull/31) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
-3. 🎉 Merged PR [#7](https://github.com/guillaumeguirriec/applicationconference/pull/7) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
-4. 🎉 Merged PR [#24](https://github.com/guillaumeguirriec/applicationconference/pull/24) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
-5. 🎉 Merged PR [#18](https://github.com/guillaumeguirriec/applicationconference/pull/18) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
+1. 🗣 Commented on [#4](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/4) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+2. 🗣 Commented on [#6](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/6) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+3. 🎉 Merged PR [#31](https://github.com/SebastienBtr/vue-dashboard/pull/31) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
+4. 🎉 Merged PR [#7](https://github.com/guillaumeguirriec/applicationconference/pull/7) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
+5. 🎉 Merged PR [#24](https://github.com/guillaumeguirriec/applicationconference/pull/24) in [guillaumeguirriec/applicationconference](https://github.com/guillaumeguirriec/applicationconference)
 <!--END_SECTION:activity-->
 
 <h1></h1>
