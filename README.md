@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/molteo-engineering-team/awesome_calendar/issues/2) in [molteo-engineering-team/awesome_calendar](https://github.com/molteo-engineering-team/awesome_calendar)
-2. 🗣 Commented on [#2](https://github.com/molteo-engineering-team/awesome_calendar/issues/2) in [molteo-engineering-team/awesome_calendar](https://github.com/molteo-engineering-team/awesome_calendar)
-3. 🗣 Commented on [#2](https://github.com/molteo-engineering-team/awesome_calendar/issues/2) in [molteo-engineering-team/awesome_calendar](https://github.com/molteo-engineering-team/awesome_calendar)
-4. 🗣 Commented on [#40](https://github.com/SebastienBtr/vue-dashboard/issues/40) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
-5. 🗣 Commented on [#2](https://github.com/molteo-engineering-team/awesome_calendar/issues/2) in [molteo-engineering-team/awesome_calendar](https://github.com/molteo-engineering-team/awesome_calendar)
+1. ❌ Closed PR [#39](https://github.com/SebastienBtr/vue-dashboard/pull/39) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
+2. ❌ Closed PR [#24](https://github.com/SebastienBtr/vue-dashboard/pull/24) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
+3. ❌ Closed PR [#38](https://github.com/SebastienBtr/vue-dashboard/pull/38) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
+4. ❌ Closed PR [#20](https://github.com/SebastienBtr/vue-dashboard/pull/20) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
+5. ❌ Closed PR [#23](https://github.com/SebastienBtr/vue-dashboard/pull/23) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
 <!--END_SECTION:activity-->
 
 <h1></h1>
