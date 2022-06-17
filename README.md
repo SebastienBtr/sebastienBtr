@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/5) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-2. 🗣 Commented on [#5](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/5) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-3. 🗣 Commented on [#7](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/7) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-4. 🎉 Merged PR [#41](https://github.com/SebastienBtr/cross-platform-TP/pull/41) in [SebastienBtr/cross-platform-TP](https://github.com/SebastienBtr/cross-platform-TP)
-5. ❗️ Closed issue [#40](https://github.com/SebastienBtr/vue-dashboard/issues/40) in [SebastienBtr/vue-dashboard](https://github.com/SebastienBtr/vue-dashboard)
+1. 🗣 Commented on [#12](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/12) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+2. ❗️ Closed issue [#5](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/5) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+3. 🗣 Commented on [#5](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/5) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+4. 🗣 Commented on [#7](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/7) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+5. 🎉 Merged PR [#41](https://github.com/SebastienBtr/cross-platform-TP/pull/41) in [SebastienBtr/cross-platform-TP](https://github.com/SebastienBtr/cross-platform-TP)
 <!--END_SECTION:activity-->
 
 <h1></h1>
