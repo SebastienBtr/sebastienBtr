@@ -25,10 +25,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#262](https://github.com/darwin-morocho/flutter-facebook-auth/issues/262) in [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth)
-2. 🗣 Commented on [#20](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/20) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-3. 🗣 Commented on [#19](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/19) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-4. ❗️ Closed issue [#8](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/8) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-5. 🗣 Commented on [#18](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/18) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+2. 🗣 Commented on [#262](https://github.com/darwin-morocho/flutter-facebook-auth/issues/262) in [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth)
+3. 🗣 Commented on [#20](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/20) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+4. 🗣 Commented on [#19](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/19) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+5. ❗️ Closed issue [#8](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/8) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
 <h1></h1>
