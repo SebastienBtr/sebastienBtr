@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/23) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-2. 🗣 Commented on [#23](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/23) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-3. 🎉 Merged PR [#22](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/22) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-4. 🗣 Commented on [#21](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/21) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-5. 🗣 Commented on [#262](https://github.com/darwin-morocho/flutter-facebook-auth/issues/262) in [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth)
+1. 🗣 Commented on [#27](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/27) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+2. 🗣 Commented on [#26](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/26) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+3. 🗣 Commented on [#23](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/23) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+4. 🗣 Commented on [#23](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/23) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+5. 🎉 Merged PR [#22](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/22) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
 <h1></h1>
