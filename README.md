@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/14) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-2. ❗️ Closed issue [#14](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/14) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-3. ❗️ Closed issue [#26](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/26) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-4. 🗣 Commented on [#27](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/27) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-5. ❗️ Closed issue [#27](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/27) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+1. ❗️ Closed issue [#28](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/28) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+2. 🗣 Commented on [#28](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/28) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+3. 🗣 Commented on [#28](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/28) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+4. 🗣 Commented on [#14](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/14) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+5. ❗️ Closed issue [#14](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/14) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
 <h1></h1>
