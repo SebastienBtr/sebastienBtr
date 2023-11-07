@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/34) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-2. 🗣 Commented on [#33](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/33) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-3. 🗣 Commented on [#33](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/33) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-4. ❗️ Closed issue [#32](https://github.com/molteo-engineering-team/Dash-Chat-2/issues/32) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
-5. 🎉 Merged PR [#33](https://github.com/molteo-engineering-team/Dash-Chat-2/pull/33) in [molteo-engineering-team/Dash-Chat-2](https://github.com/molteo-engineering-team/Dash-Chat-2)
+1. 💪 Opened PR [#1873](https://github.com/leancodepl/patrol/pull/1873) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
+2. ❗ Opened issue [#1872](https://github.com/leancodepl/patrol/issues/1872) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
+3. 🎉 Merged PR [#74](https://github.com/SebastienBtr/Dash-Chat-2/pull/74) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+4. 🔒 Closed issue [#71](https://github.com/SebastienBtr/Dash-Chat-2/issues/71) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+5. 🗣 Commented on [#72](https://github.com/SebastienBtr/Dash-Chat-2/pull/72#issuecomment-1742152729) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
 <h1></h1>
