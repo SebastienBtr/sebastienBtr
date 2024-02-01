@@ -24,9 +24,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1873](https://github.com/leancodepl/patrol/pull/1873) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
-2. ❗ Opened issue [#1872](https://github.com/leancodepl/patrol/issues/1872) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
-3. 🎉 Merged PR [#74](https://github.com/SebastienBtr/Dash-Chat-2/pull/74) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+1. 🎉 Merged PR [#78](https://github.com/SebastienBtr/Dash-Chat-2/pull/78) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+2. 💪 Opened PR [#1873](https://github.com/leancodepl/patrol/pull/1873) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
+3. ❗ Opened issue [#1872](https://github.com/leancodepl/patrol/issues/1872) in [leancodepl/patrol](https://github.com/leancodepl/patrol)
 4. 🔒 Closed issue [#71](https://github.com/SebastienBtr/Dash-Chat-2/issues/71) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
 5. 🗣 Commented on [#72](https://github.com/SebastienBtr/Dash-Chat-2/pull/72#issuecomment-1742152729) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
 <!--END_SECTION:activity-->
