@@ -24,11 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/SebastienBtr/Dash-Chat-2/pull/80) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
-2. 🗣 Commented on [#79](https://github.com/SebastienBtr/Dash-Chat-2/pull/79#issuecomment-1920899267) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
-3. 🎉 Merged PR [#79](https://github.com/SebastienBtr/Dash-Chat-2/pull/79) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
-4. 💪 Opened PR [#79](https://github.com/SebastienBtr/Dash-Chat-2/pull/79) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
-5. 🎉 Merged PR [#78](https://github.com/SebastienBtr/Dash-Chat-2/pull/78) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+1. 🗣 Commented on [#76](https://github.com/SebastienBtr/Dash-Chat-2/issues/76#issuecomment-1920982359) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+2. 🗣 Commented on [#73](https://github.com/SebastienBtr/Dash-Chat-2/issues/73#issuecomment-1920971053) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+3. 🎉 Merged PR [#80](https://github.com/SebastienBtr/Dash-Chat-2/pull/80) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+4. 🗣 Commented on [#79](https://github.com/SebastienBtr/Dash-Chat-2/pull/79#issuecomment-1920899267) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
+5. 🎉 Merged PR [#79](https://github.com/SebastienBtr/Dash-Chat-2/pull/79) in [SebastienBtr/Dash-Chat-2](https://github.com/SebastienBtr/Dash-Chat-2)
 <!--END_SECTION:activity-->
 
 <h1></h1>
